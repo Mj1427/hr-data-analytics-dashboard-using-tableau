@@ -18,5 +18,5 @@ Heatmaps, pie charts, bar graphs, and KPI metrics
 
 Interactive filters for drill-down analysis
 
-watch the video here (https://screenrec.com/share/wWxHKsRp71)
+watch the video here (https://screenrec.com/share/g0MXx1isdS)
 View dashboard on tableau public (https://public.tableau.com/app/profile/mahek.juthani/viz/hrdataanalytics_17448972009780/Dashboard1)
